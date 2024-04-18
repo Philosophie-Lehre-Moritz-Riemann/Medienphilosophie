@@ -29,11 +29,11 @@ narrator: UK English Female
 
 ## Zuordnung und Prüfungsleistungen
 
-BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit/Gegenwart)   
-BA 4 (Einführung in die Praktische Philosophie)   
-BA 7 (Kulturphilosophie, Wissenschaftsphilosophie)   
-BA 8 (Kulturphilosophie, Wissenschaftsphilosophie)   
-PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft) 
+* BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit/Gegenwart)   
+* BA 4 (Einführung in die Praktische Philosophie)   
+* BA 7 (Kulturphilosophie, Wissenschaftsphilosophie)   
+* BA 8 (Kulturphilosophie, Wissenschaftsphilosophie)   
+* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft) 
 
 **Prüfungsleistungen**
 
