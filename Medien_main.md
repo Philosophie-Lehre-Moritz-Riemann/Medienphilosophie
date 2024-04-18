@@ -29,6 +29,8 @@ narrator: UK English Female
 
 ## Zuordnung und Prüfungsleistungen
 
+**Module**
+
 * BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit/Gegenwart)   
 * BA 4 (Einführung in die Praktische Philosophie)   
 * BA 7 (Kulturphilosophie, Wissenschaftsphilosophie)   
@@ -37,15 +39,15 @@ narrator: UK English Female
 
 **Prüfungsleistungen**
 
-* BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit,Gegenwart) Protokoll 2-3 Seiten. Alternativ: Mediale Gestaltung des Protokolls als 5-Minuten Podcast, Visuelle Präsentation oder ConceptMap. Abgabe: Bis zum 27.6.2023 (vorletzte Sitzung über OLAT)
-* BA 4 (Einführung in die Praktische Philosophie) Take-Home-Klausur im Umfang von 5-6 Seiten.Aufgabenstellung in der letzten Sitzung. Abgabe bis zum 15.9.2023.
-* BA 7 (Kulturphilosophie, Wissenschaftsphilosophie) Referat von 20 Minuten zu einer Sitzung. Essay oder Hausarbeit von 10 Seiten. Individuelle Themenfindung. Abgabe bis zum 15.10.2023
-* BA 8 (Kulturphilosophie, Wissenschaftsphilosophie) Referat von 20 Minuten zu einer Sitzung. Essay oder Hausarbeit von 10 Seiten. Individuelle Themenfindung. Abgabe bis zum 15.10.2023
+* BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit,Gegenwart) Protokoll 2-3 Seiten. Abgabe des Protokolls bis Dienstag nach der protokollierten Sitzung, 12 Uhr. Alternativ: Mediale Gestaltung des Protokolls als 5-Minuten Podcast, Visuelle Präsentation oder ConceptMap. Abgabe: Bis zum 27.6.2023 (vorletzte Sitzung über OLAT)
+* BA 4 (Einführung in die Praktische Philosophie) Take-Home-Klausur im Umfang von 5-6 Seiten.Aufgabenstellung in der letzten Sitzung. Abgabe bis zum 30.09.2024
+* BA 7 (Kulturphilosophie, Wissenschaftsphilosophie) Referat von 20 Minuten zu einer Sitzung. Essay oder Hausarbeit von 10 Seiten. Individuelle Themenfindung. Abgabe bis zum 30.09.2024
+* BA 8 (Kulturphilosophie, Wissenschaftsphilosophie) Referat von 20 Minuten zu einer Sitzung. Essay oder Hausarbeit von 10 Seiten. Individuelle Themenfindung. Abgabe bis zum 30.09.2024
 * PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
 
 Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes
 Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der
-Abgabetermin für die schriftlichen Prüfungsleistungen ist der 15.10.2023. Die Abgabe erfolgt als
+Abgabetermin für die schriftlichen Prüfungsleistungen ist der 30.09.2024. Die Abgabe erfolgt als
 Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte
 oder im Briefkasten für Prüfungsleistungen in der LS4. **Die elektronische Abgabe per Email genügt für Hausarbeiten, Essays und THK nicht!**
 In den beiden Wahlpflichtmodulen BA7 und BA8 sind aus den drei Gegenstandsbereichen
@@ -61,19 +63,19 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 
 ## Semesterplan
 
-| **18.04.2024** | **Eröffnung, Organisatorisches** |  |
+| **18.04.2024** | **Eröffnung, Organisatorisches** | **Referat** |
 |------------|------------------------------|--|
 | 25.04.2024 | Lambert Wiesing: Was ist Medienphilosophie? Methodische Übung: Concept Maps |  |
-| 02.05.2024 | Walter Benjamin: Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit. In: Ziemann (Hg.): Grundlagentexte der Medienkultur. Wiesbaden 2019 |  |
+| 02.05.2024 | Walter Benjamin: Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit. In: Ziemann (Hg.): Grundlagentexte der Medienkultur. Wiesbaden 2019 | Dustin Thies, Gerolf Brüggemann |
 | 09.05.2024 | Keine Sitzung: Feiertag |  |
-| 16.05.2024 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. |  |
-| 23.05.2024 | Vilém Flusser: Digitaler Schein. In Ziemann 2019: S. 71ff. |  |
-| 30.05.2024 | Gilbert Simondon: Genese des technischen Objekts. In Ziemann 2019 S. 347-351. Ders. On techno-aesthetics, Parrhesia 14, 2012, S.1-8. |  |
+| 16.05.2024 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. | Melissa Cibukkiran, Sinem Ilgin  |
+| 23.05.2024 | Vilém Flusser: Digitaler Schein. In Ziemann 2019: S. 71ff. | Alexandra Misyra, Yannick Illmann |
+| 30.05.2024 | Gilbert Simondon: Genese des technischen Objekts. In Ziemann 2019 S. 347-351. Ders. On techno-aesthetics, Parrhesia 14, 2012, S.1-8. | Svea Bandholtz, Tabea Weber, Carina Severin |
 | 06.06.2024 | Film- und Medienethik (Vorlesungs- und Übungssitzung) |  |
-| 13.06.2024 | Mary Midgley: Artificial Intelligence and Creativity |  |
-| 20.06.2024 | Hannes Bajohr: Dumme Bedeutung. <br />Übungssitzung: Schreiben mit KI (Promptlabor) |  |
+| 13.06.2024 | Mary Midgley: Artificial Intelligence and Creativity | Laura Jahnke, Melina Schultz |
+| 20.06.2024 | Hannes Bajohr: Dumme Bedeutung. <br />Übungssitzung: Schreiben mit KI (Promptlabor) | Can Sürücü, Elisa Gjonaj |
 | 27.06.2024 | Keine Sitzung: Selbststudium |  |
-| 04.07.2024 | Reflexion der Übungen, Armin Nassehi: Muster. Theorie der Digitalen Gesellschaft |  |
+| 04.07.2024 | Reflexion der Übungen, Armin Nassehi: Muster. Theorie der Digitalen Gesellschaft | Maira Bernör, Amelie Schröder, Nina Gloyer |
 | 11.07.2024 | Abschlussdiskussion |  |
 
 
