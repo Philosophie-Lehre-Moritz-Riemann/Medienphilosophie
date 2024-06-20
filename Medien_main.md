@@ -6,9 +6,7 @@ version: 0.1
 language: en
 narrator: UK English Female
 
--->
-
-
+\-->
 
 # Medien- und Technikphilosophie zur Einführung
 
@@ -31,11 +29,11 @@ narrator: UK English Female
 
 **Module**
 
-* BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit/Gegenwart)   
-* BA 4 (Einführung in die Praktische Philosophie)   
-* BA 7 (Kulturphilosophie, Wissenschaftsphilosophie)   
-* BA 8 (Kulturphilosophie, Wissenschaftsphilosophie)   
-* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft) 
+* BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit/Gegenwart)
+* BA 4 (Einführung in die Praktische Philosophie)
+* BA 7 (Kulturphilosophie, Wissenschaftsphilosophie)
+* BA 8 (Kulturphilosophie, Wissenschaftsphilosophie)
+* PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
 
 **Prüfungsleistungen**
 
@@ -64,11 +62,11 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 ## Semesterplan
 
 | **18.04.2024** | **Eröffnung, Organisatorisches** | **Referat** |
-|------------|------------------------------|--|
+|------------|------------------------------|---------|
 | 25.04.2024 | Lambert Wiesing: Was ist Medienphilosophie? Methodische Übung: Concept Maps |  |
 | 02.05.2024 | Walter Benjamin: Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit. In: Ziemann (Hg.): Grundlagentexte der Medienkultur. Wiesbaden 2019 | Dustin Thies, Gerolf Brüggemann |
 | 09.05.2024 | Keine Sitzung: Feiertag |  |
-| 16.05.2024 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. | Melissa Cibukkiran, Sinem Ilgin  |
+| 16.05.2024 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. | Melissa Cibukkiran, Sinem Ilgin |
 | 23.05.2024 | Vilém Flusser: Digitaler Schein. In Ziemann 2019: S. 71ff. | Alexandra Misyra, Yannick Illmann |
 | 30.05.2024 | Gilbert Simondon: Genese des technischen Objekts. In Ziemann 2019 S. 347-351. Ders. On techno-aesthetics, Parrhesia 14, 2012, S.1-8. | Svea Bandholtz, Tabea Weber, Carina Severin |
 | 06.06.2024 | Film- und Medienethik (Vorlesungs- und Übungssitzung) |  |
@@ -78,11 +76,7 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 | 04.07.2024 | Reflexion der Übungen, Armin Nassehi: Muster. Theorie der Digitalen Gesellschaft | Maira Bernör, Amelie Schröder, Nina Gloyer |
 | 11.07.2024 | Abschlussdiskussion |  |
 
-
-
-
 ### Hinweise für das Verfassen von Sitzungsprotokollen im Modul BA 2
-
 
 #### I. Grundformen und Funktionen
 
@@ -96,29 +90,30 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 1. Der Protokollkopf: Name der Hochschule, Institut, Seminartyp, Seminarleitung, Protokollant:in, Semester, Datum.
 2. Der Protokolltext: Der Text ist im Präsens zu verfassen. Bei Bezügen auf den Seminarverlauf - also was eine Person sagte - wird Präteritum gewählt. Das Protokoll ist in ganzen Sätzen (nicht in Stichpunkten) zu formulieren. Ergebnisse sollen dargestellt werden, allerdings auch deren diskursiver Zusammenhang berücksichtigt werden. Die namentliche Nennung von Sprecher*innen ist nicht angebracht. Besonders wichtige Aspekte können markiert oder hervorgehoben werden. Auch sollte das Protokoll sinnvoll durch Überschriften und Zwischenüberschriften (Thema und Unterthemen der Sitzung) strukturiert werden. Übliche Länge sind zwei bis drei DIN-A 4-Seiten.
 3. Der Anhang: Bibliographie der Literatur der Seminarsitzung / Folien auf die Bezug genommen wurde.
-4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts 
+4. Textformat: Serifenfont (z.B. Times New Roman) 12pt, Fußnoten 10pt., Zeilenabstand 1,5, Blocksatz, Seitenränder 3cm links, 3cm rechts
 
 #### III. Herausforderungen
-* Balance zwischen diskursivem Verlauf und Ergebnissen -> Herausarbeitung der (zentralen) Ergebnisse. 
-* Balance zwischen sprachlicher Verknappung/Abstraktion und Wiedergabe der Beiträge. Bitte keine Umgangssprache verwenden. Auf korrekte Fachlexik achten. 
-* Das Protokoll vor der Abgabe Korrektur lesen (lassen).
-* Formal: Protokollkopf einfügen, Gliedern und Strukturieren, Literaturangaben nicht vergessen, Markierungen einheitlich verwenden. (siehe Checkliste) 
 
-#### IV. Fünf Schritte bei der Erstellung des Protokolls 
+* Balance zwischen diskursivem Verlauf und Ergebnissen -> Herausarbeitung der (zentralen) Ergebnisse.
+* Balance zwischen sprachlicher Verknappung/Abstraktion und Wiedergabe der Beiträge. Bitte keine Umgangssprache verwenden. Auf korrekte Fachlexik achten.
+* Das Protokoll vor der Abgabe Korrektur lesen (lassen).
+* Formal: Protokollkopf einfügen, Gliedern und Strukturieren, Literaturangaben nicht vergessen, Markierungen einheitlich verwenden. (siehe Checkliste)
+
+#### IV. Fünf Schritte bei der Erstellung des Protokolls
 
 1. Vorbereitung. Die zu protokollierende Sitzung sollte gut vorbereitet sein.
-2. Rezeption der Seminarsitzung. Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen. 
-3. Mitschrift während der Sitzung. Wichtige Inhalte müssen dokumentiert werden – gern auch in Stichpunkten oder unter Verwendung von Symbolen und Verweisen. Es ist nicht leicht zu entscheiden, was wichtig und was weniger wichtig ist. Hier hilft es Ihnen, wenn Sie exzellent auf die Seminarsitzung vorbereitet sind. Achten Sie auf folgende Aspekte: 
-* Quantität der Besprechungsdauer – Wie lange wurde ein Aspekt besprochen? 
-* Top-down denken. Lässt sich die Sitzung in Themenclustern beschreiben? Wie lässt sich eine Struktur herstellen? 
-* Gesamtdiskurs aufzeigen. Welche Aspekte vergangener Sitzungen wurden aufgegriffen?
-* Bilanz ziehen. Offene Fragen nennen. 
-4. Komprimieren und Reproduzieren. Es bietet sich an, die Mitschrift so schnell wie möglich zu bearbeiten, da die Inhalte dann noch frisch erinnert werden. Ergänzen Sie nun aus dem Gedächtnis oder aus Ihren Materialien wichtige Aspekte ihrer Mitschrift und bringen Sie die Inhalte in eine Struktur (die von der Chronologie des Seminars abweichen kann). 
-5. Erstellen des Protokolls. Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form gebracht werden. Möglicherweise wird der Text auch nochmals umstrukturiert. Der fertige, korrigierte Text kann auch nochmal anhand der Funktionen des Protokolls überprüft werden. Kann eine fremde Person den Sitzungsverlauf und -inhalte nachvollziehen?
+2. Rezeption der Seminarsitzung. Die anspruchsvolle Aufgabe, Inhalte zu komprimieren und zu strukturieren ist durch eine Tonaufnahme nicht bewältigt, sondern nur vertagt. Außerdem erfordert die Aufnahme das Einverständis des gesamten Plenums. Hören Sie gut zu und seien Sie gnädig mit sich, wenn Sie nicht die vollen 90 Minuten jeden Satz verstehen.
+3. Mitschrift während der Sitzung. Wichtige Inhalte müssen dokumentiert werden – gern auch in Stichpunkten oder unter Verwendung von Symbolen und Verweisen. Es ist nicht leicht zu entscheiden, was wichtig und was weniger wichtig ist. Hier hilft es Ihnen, wenn Sie exzellent auf die Seminarsitzung vorbereitet sind. Achten Sie auf folgende Aspekte:
 
+* Quantität der Besprechungsdauer – Wie lange wurde ein Aspekt besprochen?
+* Top-down denken. Lässt sich die Sitzung in Themenclustern beschreiben? Wie lässt sich eine Struktur herstellen?
+* Gesamtdiskurs aufzeigen. Welche Aspekte vergangener Sitzungen wurden aufgegriffen?
+* Bilanz ziehen. Offene Fragen nennen.
+
+1. Komprimieren und Reproduzieren. Es bietet sich an, die Mitschrift so schnell wie möglich zu bearbeiten, da die Inhalte dann noch frisch erinnert werden. Ergänzen Sie nun aus dem Gedächtnis oder aus Ihren Materialien wichtige Aspekte ihrer Mitschrift und bringen Sie die Inhalte in eine Struktur (die von der Chronologie des Seminars abweichen kann).
+2. Erstellen des Protokolls. Die Stichpunkte und Notizen müssen nun in ganze Sätze und eine kohärente Form gebracht werden. Möglicherweise wird der Text auch nochmals umstrukturiert. Der fertige, korrigierte Text kann auch nochmal anhand der Funktionen des Protokolls überprüft werden. Kann eine fremde Person den Sitzungsverlauf und -inhalte nachvollziehen?
 
 #### V. Checkliste vor der Abgabe
-
 
  1. Hat Ihr Protokoll einen Kopf?
  2. Ist Ihr Text einheitlich formatiert, im Blocksatz und unter Berücksichtigung der Seitenränder? Stimmen die Seitenumbrüche? Haben Sie Seitenzahlen angegeben?
@@ -130,6 +125,42 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
  8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
  9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
 10. Haben Sie alle Punkte der Checkliste berücksichtigt?
-11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen? 
+11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
 
 Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
+
+
+## 4. Sitzung 16.05.2024
+
+>Die Philosophie der Fotografie ist notwendig, um die fotografische Praxis ins Bewußtsein zu heben; und dies wiederum, weil in dieser Praxis ein Modell für die Freiheit im nachindustriellen Kontext überhaupt aufscheint. Die Philosophie der Fotografie hat aufzudecken, daß die menschliche Freiheit im Bereich der automatischen, programmierten und programmierenden Apparate keinen Platz hat, um schließlich aufzuzeigen, wie es dennoch möglich ist, für die Freiheit einen Raum zu öffnen. Die Philosophie der Fotografie hat die Aufgabe, über diese Möglichkeit der Freiheit — und damit der Sinngebung — in einer von Apparaten beherrschten Welt nachzudenken; darüber nachzudenken, wie es dem Menschen trotz allem möglich ist, seinem Leben angesichts der zufälligen Notwendigkeit des Todes einen Sinn zu geben. Eine solche Philosophie ist notwendig, weil sie die einzige Form von Revolution ist, die uns noch offensteht.
+
+
+## 8. Sitzung 20.06.2024
+
+
+**Gruppenarbeit und Selbststudium**
+
+Prompten einer THK mit ChatGPT (bis 4.7.2024)
+
+1) Bitte beachten Sie die formalen Vorgaben für schriftliche Arbeiten im Fach Philosophie.
+
+2) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Die Beantwortung jeder Frage muss einen Bezug zur Primärliteratur haben. Vermeiden Sie indirekte Zitate und zitieren Sie wenn möglich direkt aus dem Text.
+
+3) Gehen Sie in die Bibliothek und recherchieren Sie.
+
+4) Die Klausur ist selbständig zu verfassen. Die entsprechende eidesstattliche Erklärung
+(Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden.
+
+>Erklären Sie den Begriff der Aura im Anschluss an Walter Benjamin. Beziehen Sie kritisch Stellung! (2-3 Seiten)
+
+oder
+
+>Wagen Sie einen Versuch über Kreativität und Künstliche Intelligenz im Anschluss an Mary Midgley. (2-3 Seiten)
+
+1. Bildet Kleingruppen von 4 Personen
+2. Bildet in der Kleingruppe 2 Teams
+3. Sucht Euch eine der beiden Fragen aus
+4. Team 1 beantwortet die Frage traditionell; Team 2 beantwortet die Frage mit ChatGPT
+5. Vergleicht die Ergebnisse und dokumentiert Eure Erkenntnisse
+6. Stellt die Ergebnisse dem Plenum vor
+
