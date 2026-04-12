@@ -15,7 +15,7 @@ narrator: UK English Female
 * Moritz Riemann (riemann@philsem.uni-kiel.de)
 * Sprechstunde: Montag 16:15-17:30, Boschstraße 1, R. 01.001
 
-**Zeit und Raum:** Donnerstag 14-16, LMS2 R. Ü1
+**Zeit und Raum:** Montag 14-16, LS2 - Seminarraum S5 - R.01.018a
 
 ## "Regierungserklärung"
 
