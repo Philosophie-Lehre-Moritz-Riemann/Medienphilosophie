@@ -65,14 +65,14 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 |------------|------------------------------|---------|
 | 20.04.2026 | Lambert Wiesing: Was ist Medienphilosophie? | kein Referat |
 | 27.04.2026 | Film- und Medienethik (Vorlesungs- und Übungssitzung) | kein Referat |
-| 04.05.2026 | Walter Benjamin: Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit. In: Ziemann (Hg.): Grundlagentexte der Medienkultur. Wiesbaden 2019 | Referat |
+| 04.05.2026 | Walter Benjamin: Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit. In: Ziemann (Hg.): Grundlagentexte der Medienkultur. Wiesbaden 2019 | Referat: Amelie Anwand |
 | 11.05.2026 | Marshall McLuhan: Understanding Media (Auszug) | Referat |
 | 18.05.2026 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. | Referat |
 | 25.05.2026 | Pfingsten: keine Sitzung |kein Referat| 
 | 01.06.2026 | Susan Sontag: Über Fotografie. (Auszug) | Referat | 
 | 08.06.2026 | Gilbert Simondon: Überlegungen zur Techno-Ästhetik, in: Bolwin/Riemann/Weigelt: Operativität und Sinnlichkeit, Berlin 2025. | Referat |
 | 15.06.2026 | Mary Midgley: Artificial Intelligence and Creativity | Referat | 
-| 22.06.2026 | Hannes Bajohr: Dumme Bedeutung. | Referat |
+| 22.06.2026 | Hannes Bajohr: Dumme Bedeutung. | Referat: Jonas Gutzke |
 | 29.06.2026 | Rainer Mühlhoff: KI und Faschismus  | Referat |
 | 06.07.2026 | Abschlussdiskussion | kein Referat |
 
