@@ -37,7 +37,7 @@ narrator: UK English Female
 
 **Prüfungsleistungen**
 
-* BA 2 (Geschichte der Philosophie – Zentrale Themen der Philosophie der Neuzeit,Gegenwart) Protokoll 2-3 Seiten. Abgabe des Protokolls bis Dienstag nach der protokollierten Sitzung, 12 Uhr. Alternativ: Mediale Gestaltung des Protokolls als 5-Minuten Podcast, Visuelle Präsentation oder ConceptMap. Abgabe: Bis zum 27.6.2023 (vorletzte Sitzung über OLAT)
+* PHF-phil-BA2 (Geschichte der Philosophie – Gegenwart): **Ergebnisprotokoll** im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn des Semesters. Es ist bis Freitag, 12 Uhr nach der protokollierten Sitzung in den Dateiformaten **NameVorname-Protokoll-Sitzungsnummer.md** und **NameVorname-Protokoll-Sitzungsnummer.pdf** in den persönlichen OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls. Das Protokoll muss am Beginn der folgenden Sitzung kurz (5 Minuten) vorgestellt werden.
 * BA 4 (Einführung in die Praktische Philosophie) Take-Home-Klausur im Umfang von 5-6 Seiten.Aufgabenstellung in der letzten Sitzung. Abgabe bis zum 30.09.2024
 * BA 7 (Kulturphilosophie, Wissenschaftsphilosophie) Referat von 20 Minuten zu einer Sitzung. Essay oder Hausarbeit von 10 Seiten. Individuelle Themenfindung. Abgabe bis zum 30.09.2024
 * BA 8 (Kulturphilosophie, Wissenschaftsphilosophie) Referat von 20 Minuten zu einer Sitzung. Essay oder Hausarbeit von 10 Seiten. Individuelle Themenfindung. Abgabe bis zum 30.09.2024
@@ -70,11 +70,33 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 | 18.05.2026 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. | Referat |
 | 25.05.2026 | Pfingsten: keine Sitzung |kein Referat| 
 | 01.06.2026 | Susan Sontag: Über Fotografie. (Auszug) | Referat | 
-| 08.06.2026 | Gilbert Simondon: Genese des technischen Objekts. In: Ziemann 2019, S. 347-351. Ders. On techno-aesthetics, Parrhesia 14, 2012, S.1-8. | Referat |
+| 08.06.2026 | Gilbert Simondon: Überlegungen zur Techno-Ästhetik, in: Bolwin/Riemann/Weigelt: Operativität und Sinnlichkeit, Berlin 2025, S.  | Referat |
 | 15.06.2026 | Mary Midgley: Artificial Intelligence and Creativity | Referat | 
 | 22.06.2026 | Hannes Bajohr: Dumme Bedeutung. | Referat |
 | 29.06.2026 | Rainer Mühlhoff: KI und Faschismus  | Referat |
 | 06.07.2026 | Abschlussdiskussion | kein Referat |
+
+
+**Prüfungszeitraum des Sommersemesters**:
+13.07. - 25.07.2026
+
+**2. Prüfungszeitraum**:
+05.10. - 17.10.2026
+
+**Termine für die Anmeldung zum 1. Prüfungszeitraum (1. PZ)**
+
+* Beginn: Montag 01.06.2026
+* Ende: Sonntag 26.06.2025
+
+**Termine für die Anmeldung  zum 2. Prüfungszeitraum (2. PZ)**
+
+* Beginn: 24.08.2026
+* Ende: 20.09.2026
+
+**Ende des Korrekturzeitraums und Eintragung der Noten**
+
+* 27.11.2026
+  
 
 ## Hinweise für das Verfassen von Sitzungsprotokollen im Modul BA 2
 
