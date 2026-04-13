@@ -70,7 +70,7 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 | 18.05.2026 | Vilém Flusser: Für eine Philosophie der Fotografie. Göttingen 1983 S. 9-29. | Referat |
 | 25.05.2026 | Pfingsten: keine Sitzung |kein Referat| 
 | 01.06.2026 | Susan Sontag: Über Fotografie. (Auszug) | Referat | 
-| 08.06.2026 | Gilbert Simondon: Überlegungen zur Techno-Ästhetik, in: Bolwin/Riemann/Weigelt: Operativität und Sinnlichkeit, Berlin 2025, S.  | Referat |
+| 08.06.2026 | Gilbert Simondon: Überlegungen zur Techno-Ästhetik, in: Bolwin/Riemann/Weigelt: Operativität und Sinnlichkeit, Berlin 2025. | Referat |
 | 15.06.2026 | Mary Midgley: Artificial Intelligence and Creativity | Referat | 
 | 22.06.2026 | Hannes Bajohr: Dumme Bedeutung. | Referat |
 | 29.06.2026 | Rainer Mühlhoff: KI und Faschismus  | Referat |
