@@ -73,7 +73,7 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 | 08.06.2026 | Gilbert Simondon: Überlegungen zur Techno-Ästhetik, in: Bolwin/Riemann/Weigelt: Operativität und Sinnlichkeit, Berlin 2025. | Referat |
 | 15.06.2026 | Mary Midgley: Artificial Intelligence and Creativity | Referat | 
 | 22.06.2026 | Hannes Bajohr: Dumme Bedeutung. | Referat: Jonas Gutzke |
-| 29.06.2026 | Rainer Mühlhoff: KI und Faschismus  | Referat |
+| 29.06.2026 | Rainer Mühlhoff: KI und Faschismus  | Referat: Joshua Hamann |
 | 06.07.2026 | Abschlussdiskussion | kein Referat |
 
 
