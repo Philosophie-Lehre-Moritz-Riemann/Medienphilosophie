@@ -152,3 +152,15 @@ Eine ergänzende Textauswahl stelle ich zu Beginn des Semesters über OLAT berei
 Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfassen, Paderborn 2011.
 
 
+## Sitzung am 11.05.2026
+
+### Gruppenarbeitsphase
+
+**Bildet 4 Gruppen**
+
+Beantwortet in der Gruppenarbeit folgende Fragen
+1. Wie entwickelt McLuhan sein zentrales Argument: "The medium is the message"?
+2. Welche Beispiele findet er dafür?
+3. Was bedeutet die Unterscheidung zwischen heißen und kalten Medien?
+4. Welche Beispiel findet er dafür?
+5. Sammelt pro Gruppe 2-3 Textstellen (je ca. 0,5-1 Seite), die wir im Plenum lesen und diskutieren.
